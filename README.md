@@ -75,7 +75,7 @@ For optimal performance, run with privileges and always stay up to date.
 ### **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://raw.githubusercontent.com/tirtaw292/cursor-free/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ### **Archlinux**
@@ -89,7 +89,7 @@ yay -S cursor-free-vip-git
 ### **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/tirtaw292/cursor-free/main/scripts/install.ps1 | iex
 ```
 
 </details>
